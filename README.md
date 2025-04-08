@@ -66,4 +66,4 @@ MIT License – Feel free to modify and use it as you like.
 
 ---
 
-This version keeps it short and to the point, providing just enough information for users to understand how to use the script quickly. Let me know if you need any changes!# Fuzzyman
+
