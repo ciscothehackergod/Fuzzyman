@@ -1,6 +1,11 @@
 
 
 ---
+You should have the FFUF to be installed in your system for this script to work .
+
+to install FFUF go this url : https://github.com/ffuf/ffuf
+ you should also have golang installed in your pc aswell .   
+
 
 Note : Rename the domains list to domains.txt and the wordlist file to list.txt
 
